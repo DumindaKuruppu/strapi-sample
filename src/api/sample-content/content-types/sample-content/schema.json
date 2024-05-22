@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "sample_contents",
+  "info": {
+    "singularName": "sample-content",
+    "pluralName": "sample-contents",
+    "displayName": "Sample Content"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "sample": {
+      "type": "blocks"
+    }
+  }
+}
